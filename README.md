@@ -1,4 +1,4 @@
-# Pink & Gold Galaxy Christmas Tree
+<img width="1392" height="920" alt="image" src="https://github.com/user-attachments/assets/06b7a95e-2604-42eb-8749-01574b451a09" /># Pink & Gold Galaxy Christmas Tree
 
 An interactive 3D Christmas tree built with Python, ModernGL, Pygame, and NumPy.
 
