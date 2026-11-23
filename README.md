@@ -4,7 +4,7 @@ An interactive 3D Christmas tree built with Python, ModernGL, Pygame, and NumPy.
 
 A sparkling Christmas scene featuring golden stars, pink and gold particles, swirling galaxy rings, and animated snowfall.
 
-![Christmas Tree Preview](preview.png)
+![img_2.png](img_2.png)
 
 ## Features
 
